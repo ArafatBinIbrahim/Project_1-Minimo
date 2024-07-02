@@ -1,0 +1,49 @@
+font family name
+font-family: "Playfair Display", serif;
+font-family: "Ubuntu", sans-serif;
+EGULA HOCCHE FONTS
+section define
+layout define
+semantic markup
+   (artical
+   aside
+   header 
+   footer
+   section 
+   nav)
+code comment 
+css haierer
+    font-family
+ui ux 
+   color 
+   type
+   spacing
+#menu type er kaj ul r li diye korte hbe          
+font size default 400 thake
+font weight default 16pixel thkake
+
+#hover jinish ta hocche mouse er cursor rakhle j change ta ashbe color er oita
+
+#hoaver hocche menu bar er j lekha ta ase oita shobgular moddhe ekta te change thakle bujbo oita hover or layer e jeye bujbo 
+
+@ menu ul li er last child mane li er last item ta k dhorte hbe
+
+!header ekta element selector
+
+!a hocche anchor tag
+
+$COLOR CODE:
+gray = #626262
+white= #ffffff
+black= #000000
+red=  #f53636
+blue= #367ef5
+
+$margin:0 auto; mane 0 hocche top bottom er line r auto hocche left r right er spacing ta
+
+.logo a img{
+    width:100%; ETA DIYE IMG TA RESPONSIVE KORLAM
+
+inspect e ul li jkonoekta k dhore lekhbo j list style none then dot gula chole jabe    
+
+#transition diye animation er timing change kora jay
